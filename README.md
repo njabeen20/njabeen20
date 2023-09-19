@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njabeen20
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on food
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me mail me
 
 <!---
